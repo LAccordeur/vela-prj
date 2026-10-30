@@ -1,0 +1,4 @@
+boto3>=1.36
+faiss-cpu>=1.8
+matplotlib>=3.8
+numpy>=1.26

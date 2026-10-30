@@ -1,0 +1,14 @@
+[project]
+name = "vela"
+version = "0.1.0"
+description = "Minimal Python prototype for partition-centric vector lifecycle management."
+requires-python = ">=3.11"
+dependencies = [
+    "boto3>=1.36",
+    "faiss-cpu>=1.8",
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
