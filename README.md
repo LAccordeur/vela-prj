@@ -6,7 +6,7 @@ S3-compatible services such as MinIO.
 
 The prototype includes immutable base/delta bundles, CAS-published manifests,
 advisory routing, compaction and migration workflows, and exact or FAISS HNSW
-indexes. See [`doc/DESIGN.md`](doc/DESIGN.md) for design details.
+indexes.
 
 ## Quick start
 
